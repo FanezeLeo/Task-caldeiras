@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
-echo .idea/ >> .gitignore
+.idea/
+target/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
